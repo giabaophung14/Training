@@ -1,3 +1,15 @@
 1/ Tinh tong tu 1->100
 2/ Tinhh tong tu 100 -> 1
 3/ Viet function nhan vao tham so kiểu chuoi , return ve chuoi dao nguoc . Ex : 123 -> 321
+------ Cho mảng 1 chiều các số thực sau: [5, -2 , 87 , 8 , -0.1 , 0.1 , 9 , 25, -2.5, 10 , 8 , -2 , 3 , - 3 , 2.9 , 8.9 , 108 , 40.5 , -90]
+4/ Hãy liệt kê các số âm trong mảng 1 chiều các số thực
+5/ Hãy liệt kê các số trong mảng 1 chiều các số thực thuộc đoạn [-5, 5]
+6/ Hãy liệt kê các số chẵn trong mảng 1 chiều các số nguyên thuộc đoạn [-5, 5] cho trước (x, y là các số nguyên)
+7/ Hãy liệt kê các giá trị trong mảng mà thỏa điều kiện lớn hơn giá trị tuyệt đối của giá trị đứng liền sau nó
+8/ Hãy liệt kê các giá trị trong mảng mà thỏa điều kiện nhỏ hơn trị tuyệt đối của giá trị đứng liền sau nó và lớn hơn trị tuyệt đối của giá trị đứng liền trước nó
+9/ Hãy liệt kê các giá trị chẵn có ít nhất 1 lân cận cũng là giá trị chẵn
+10/ Hãy viết hàm liệt kê tất cả các giá trị trong mảng có ít nhất 1 lận cận trái dấu với nó
+11/ Tìm giá trị lớn nhất trong mảng
+12/ Hãy liệt kê các vị trí mà giá trị tại đó là số nguyên tố trong mảng 1 chiều các số nguyên
+13/ Hãy liệt kê các vị trí mà giá trị tại đó là số chính phương trong mảng 1 chiều các số nguyên
+14/ Hãy liệt kê các vị trí trong mảng 1 chiều các số thực mà giá trị tại đó bằng giá trị âm đầu tiên trong mảng
