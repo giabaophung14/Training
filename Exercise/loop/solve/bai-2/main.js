@@ -1,34 +1,22 @@
-var  test = "hello";
-function tong(x,y){
-    
+function sumArray(x, y) {
 
-
-
-
-
-    if (isNaN(x) == true || isNaN(y) == true) {
-      return false;
-    }
-
-
-    if ( x < y) {
-      return false;
-    }
-    var sum = 0;
-    for(var i = x; i >= y; i--) {
-      sum = sum + i;
-    }
-
-    if (y == 0){
+    if (typeof x != "number" || typeof y != "number" || isNaN(x) || isNaN(y)) {
         return false;
-    } else if (sum == 1) {
-        return true;
+    }
+
+    var sum = 0;
+    if (x == y) {
+        return sum = sum + y;
+    } else if (x > y) {
+        for (var i = x; i >= y; i--) {
+            sum = sum + i;
+        }
+    } else if (x < y) {
+        return false
     }
 
     return sum;
 
-  }
-  tong(100,1);
-  
-  
-  document.getElementById("total").innerHTML = tong(100, 1);
+}
+
+document.getElementById("total").innerHTML = sumArray(true, true);
