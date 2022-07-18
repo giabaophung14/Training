@@ -10,3 +10,5 @@ function myArray(num) {
 }
 
 console.log(array.filter(myArray));
+// De bai 4/ Hãy liệt kê các số âm trong mảng 1 chiều các số thực ,  KQ ra [-0.1, -2.5]  => Phải ra [-2,-0.1,-2,-3...] ???? -2,-3 cũng là số thực mà
+// Tap so thuc bao gom tap so nguyen
