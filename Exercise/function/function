@@ -12,10 +12,6 @@
 
 7. Viết function để tính giai thừa của một số nguyên dương bởi sử dụng vòng lặp
 
-8. Viết function để vẽ tam giác sao.
-
-9. Viết function để nhận n số dương. Chương trình sẽ kết thúc nếu một trong các số đó là số âm.
-
 10. Viết một function để xử lý tình huống khi người dùng lựa chọn một tùy chọn nào thì chương trình của bạn sẽ in một dòng thông báo về tùy chọn đó.
 
 11. Viết một function để tính số tiền lãi ngân hàng phải trả cho khách hàng.
@@ -28,22 +24,12 @@
 
 15. Viết function để nhắc người dùng chọn một tùy chọn. Sau đó nhắc họ nhập hai số nguyên và in kết quả tương ứng với tùy chọn đó.
 
-16. Viết function để in một bảng nhân như yêu cầu đề bài.
+17. Viết function nhắc người dùng nhập 3 số nguyên và sau đó in các số nhỏ nhất và lớn nhất
 
-17. Viết function nhắc người dùng nhập 3 số nguyên và sau đó in các số nhỏ nhất và lớn nhất bởi sử dụng hàm trong.
-
-18. Viết function để tính giai thừa của một số nguyên dương bởi sử dụng hàm trong.
-
-19. Sử dụng nạp chồng hàm để xếp thứ tự 10 số nguyên trong cùng một function.
-
-20. Sử dụng khái niệm truyền mảng tới hàm để tính giá trị trung bình của các giá trị nguyên được nhập từ bàn phím. Các giá trị nguyên được lưu trữ trong mảng một chiều và được truyền tới hàm có tên là avg.
+18. Viết function để tính giai thừa của một số nguyên dương
 
 21. Viết function sử dụng khái niệm hàm đệ qui để tính tích sau: Sn= 11 * 22 * 33 * 44 *...* nn.
 
-22. Viết function để tìm giá trị trung bình với hàm friend.
-
-23. Viết function để tính diện tích hình tròn, hình tam giác, hình chữ nhật bởi sử dụng khái niệm nạp chồng hàm trong tùy theo lựa chọn của người dùng.
+22. Viết function để tìm giá trị trung bình
 
 24. Tráo đổi giá trị giữa hai số 
-
-25. Viết một function để nhập hai giá trị và tính tích và lập phương của chúng bởi sử dụng khái niệm inline function trong.
