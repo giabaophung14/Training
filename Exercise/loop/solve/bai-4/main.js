@@ -1,11 +1,13 @@
 var array = [5, -2, 87, 8, -0.1, 0.1, 9, 25, -2.5, 10, 8, -2, 3, - 3, 2.9, 8.9, 108, 40.5, -90];
 
 function myArray(num) {
+   // Muc dich doan nay la gi giai thich cho anh , khong co doan nay van chay dung
    for (var i = 1; num < i; i--) {
       if (num / i == 1) {
          return false;
       }
    }
+   // Muc dich doan nay la gi giai thich cho anh , khong co doan nay van chay dung
    return num < 0;
 }
 
