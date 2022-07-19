@@ -1,0 +1,21 @@
+1. Viết function để nhận vào một số nguyên, tìm bội số của số đó với các số từ 1-15 , sau đó in kết quả ra màn hình.
+
+2. Viết function để nhận một câu, đếm số từ và ký tự trong câu đó, và in kết quả ra màn hình.
+
+3. Viết function để nhận một số nguyên và in kết quả ra màn hình dưới dạng số đảo ngược (về thứ tự) của số nguyên vừa nhận đó.
+
+4. Viết function để nhận một số nguyên x và tính giá trị của x - 1/3!x3 + 1/5!x5 - 1/7!x5 + 1/9!x9.
+
+5. Viết function để tìm số nguyên tố bởi sử dụng vòng lặp FOR.
+
+6. Viết function để in dãy Fibonacci bất kỳ có độ dài bằng số nhập vào
+
+7. Viết function để tính giai thừa của một số nguyên dương bởi sử dụng vòng lặp
+
+8. Viết function để vẽ tam giác sao.
+
+9. Viết function để nhận n số dương. Chương trình sẽ kết thúc nếu một trong các số đó là số âm.
+
+10. Viết một function để xử lý tình huống khi người dùng lựa chọn một tùy chọn nào thì chương trình của bạn sẽ in một dòng thông báo về tùy chọn đó.
+
+11. Viết một function để tính số tiền lãi ngân hàng phải trả cho khách hàng.
