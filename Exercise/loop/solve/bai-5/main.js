@@ -1,4 +1,4 @@
-var myArray = [];
+var myArray = [5, -2 , 87 , 8 , -0.1 , 0.1 , 9 , 25, -2.5, 10 , 8 , -2 , 3 , - 3 , 2.9 , 8.9 , 108 , 40.5 , -90];
 // Viet gi day Bao
 // Hãy liệt kê các số trong mảng 1 chiều các số thực thuộc đoạn [-5, 5] , 
 // Tuc la trong array ban dau tim tat cac so trong doan [-5.5]
@@ -7,12 +7,16 @@ var myArray = [];
 // Hoc lai so thuc so nguyen giup anh
 // Neu theo em hieu thi 4.01 , 4.011, 4.012 sao ko in ra luon
 
-for(var i = -5; i <= 5; i += 0.1){
-    myArray.push(i)
+var arrayLength = myArray.length;
 
-    console.log(i)
+for (var i = 0; i <= arrayLength; i++) {
+
+    if(myArray[i] >= -5 && myArray[i] <= 5){
+        console.log(myArray[i])
+    }
+    
 }
-console.log(myArray)
+
 
 
 
