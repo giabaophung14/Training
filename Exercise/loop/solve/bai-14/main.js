@@ -29,3 +29,28 @@ function checkNumber() {
 
 checkNumber()
 
+
+//
+
+var array = [5, -2, 87, 8, -0.1, 0.1, 9, 25, -2.5, 10, 8, -2, 3, - 3, 2.9, 8.9, 108, 40.5, -90];
+
+
+function checkNumber()
+{
+    for (var i = 0; i < array.length; i++) {
+      if (array[i] < 0){
+        var value = array[i];
+        var index = i;
+        break;
+      }
+    }
+    for (var j = index; j < array.length; j++){
+      if (value == array[j]){
+        var result = j;
+      }
+    }
+    return result
+}
+
+console.log(checkNumber())
+
