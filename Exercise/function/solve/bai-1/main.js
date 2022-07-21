@@ -6,23 +6,18 @@ var array= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 // // Nhu v đc vô hạn , nên lấy từ 1 -> 15 thôi
 function multipleNumber(x){
 
-    var valid_array = [];
+    var  mulNumber = [];
 
     var arrayLength = array.length;
 
-    if(x % 1 !=0){
-        return false;
+    for(var i = 0; i < arrayLength; i++){
+        
+        mulNumber.push(x * array[i])
+
     }
 
-    for(var i = 0; i <= arrayLength; i++){
-        if(array[i] % x == 0){
-            console.log(array[i])
-            valid_array.push(array[i])
-        }
-    }
-
-    return valid_array;
+    return mulNumber;
 
 }
 
-document.getElementById("multipleNumber").innerHTML = multipleNumber(3);
+document.getElementById("multipleNumber").innerHTML = multipleNumber(2); 
