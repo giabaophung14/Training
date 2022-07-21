@@ -1,19 +1,16 @@
-var array = ['Hello World'];
+function countChar(x) {
 
-function countChar() {
+    var count = 0;   
 
-    var count = 0;
+    var arrayString = x.split("");
 
-    for (var i = 0; i < array.length; ++i) {
+    for(var i = 0; i < arrayString.length; i++){
 
-        array.slice(array[i]);
-
-        console.log(array.slice[i])
-
+        count ++;
     }
 
     return count;
 
 }
 
-document.getElementById("countChar").innerHTML = countChar();
+document.getElementById("countChar").innerHTML = countChar("Hello World");
