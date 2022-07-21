@@ -9,8 +9,6 @@ function squareNumber() {
         if (Math.sqrt(array[i]) % 1 == 0) {
 
             // Log ra vi tri , not gia tri
-            
-            console.log(array[i])
 
             console.log(i)
 
