@@ -25,4 +25,4 @@ function multipleNumber(x){
 
 }
 
-document.getElementById("multipleNumber").innerHTML = multipleNumber(2);
+document.getElementById("multipleNumber").innerHTML = multipleNumber(3);

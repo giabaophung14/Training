@@ -7,8 +7,13 @@ function squareNumber() {
     for (var i = 0; i <= arrayLength; i++) {
 
         if (Math.sqrt(array[i]) % 1 == 0) {
+<<<<<<< Updated upstream
             // Log ra vi tri , not gia tri
             console.log(array[i])
+=======
+
+            console.log(i)
+>>>>>>> Stashed changes
         }
 
     }
