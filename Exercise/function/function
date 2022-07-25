@@ -12,24 +12,24 @@
 
 7. Viết function để tính giai thừa của một số nguyên dương bởi sử dụng vòng lặp
 
-10. Viết một function để xử lý tình huống khi người dùng lựa chọn một tùy chọn nào thì chương trình của bạn sẽ in một dòng thông báo về tùy chọn đó.
+8. Viết một function để xử lý tình huống khi người dùng lựa chọn một tùy chọn nào thì chương trình của bạn sẽ in một dòng thông báo về tùy chọn đó.
 
-11. Viết một function để tính số tiền lãi ngân hàng phải trả cho khách hàng.
+9. Viết một function để tính số tiền lãi ngân hàng phải trả cho khách hàng.
 
-12. Viết một function để nhập một chuỗi từ bàn phím và in ra màn hình độ dài của chuỗi đó.
+10. Viết một function để nhập một chuỗi từ bàn phím và in ra màn hình độ dài của chuỗi đó.
 
-13. Viết function để nhập một số nguyên và tìm lập phương của số đó.
+11. Viết function để nhập một số nguyên và tìm lập phương của số đó.
 
-14. Viết function để in ra màn hình số kế tiếp của số nguyên bạn vừa nhập.
+12. Viết function để in ra màn hình số kế tiếp của số nguyên bạn vừa nhập.
 
-15. Viết function để nhắc người dùng chọn một tùy chọn. Sau đó nhắc họ nhập hai số nguyên và in kết quả tương ứng với tùy chọn đó.
+13. Viết function để nhắc người dùng chọn một tùy chọn. Sau đó nhắc họ nhập hai số nguyên và in kết quả tương ứng với tùy chọn đó.
 
-17. Viết function nhắc người dùng nhập 3 số nguyên và sau đó in các số nhỏ nhất và lớn nhất
+14. Viết function nhắc người dùng nhập 3 số nguyên và sau đó in các số nhỏ nhất và lớn nhất
 
-18. Viết function để tính giai thừa của một số nguyên dương
+15. Viết function để tính giai thừa của một số nguyên dương
 
-21. Viết function sử dụng khái niệm hàm đệ qui để tính tích sau: Sn= 11 * 22 * 33 * 44 *...* nn.
+16. Viết function sử dụng khái niệm hàm đệ qui để tính tích sau: Sn= 11 * 22 * 33 * 44 *...* nn.
 
-22. Viết function để tìm giá trị trung bình
+17. Viết function để tìm giá trị trung bình
 
-24. Tráo đổi giá trị giữa hai số 
+18. Tráo đổi giá trị giữa hai số 
