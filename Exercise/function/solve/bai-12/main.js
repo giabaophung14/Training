@@ -1,17 +1,18 @@
 function number(x){
 
-    var x = [];
+    var y = 0;
 
-    var arrayLength = x.length;
+    for(var i = 0; i <= x; i++){
 
-    for(var i = 0; i < arrayLength; i++){
+        if(i % 1 == 0 && i == x){
 
-        if(array[i] % 1 == 0){
+            y = i + 1;
 
-            
         }
 
     }
 
+    return y;
+
 }
-number([1, 2, 3, 4, 5, 6]);
+document.getElementById("number").innerHTML = number(5);
