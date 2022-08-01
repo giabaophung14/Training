@@ -20,7 +20,7 @@ function numberPrompt(){
 
         maxNumber = numberInput1;
 
-        if (maxNumber < numberInput2){
+        if (maxNumber < numberInput2){  
 
             maxNumber = numberInput2;
 
@@ -40,7 +40,7 @@ function numberPrompt(){
 
     }
 
-   return ("Số lớn nhất là" + ":" + maxNumber + "<br>" + "Số nhỏ nhất là" + ":" + minNumber);
+   return ("Số lớn nhất là" + ": " + maxNumber + "<br>" + "Số nhỏ nhất là" + ": " + minNumber);
 
 }
 
